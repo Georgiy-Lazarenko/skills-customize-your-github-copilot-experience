@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "csv-data-cleaning",
+      "title": "CSV Data Cleaning with Python",
+      "description": "Clean, validate, and export contact records using Python's csv module",
+      "path": "assignments/csv-data-cleaning",
+      "dueDate": "2026-10-07",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter_code.py",
+          "type": "python"
+        },
+        {
+          "name": "Messy Contacts Dataset",
+          "file": "messy_contacts.csv",
+          "type": "csv"
+        }
+      ]
     }
   ]
 }

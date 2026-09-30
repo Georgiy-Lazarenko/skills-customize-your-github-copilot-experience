@@ -1,0 +1,7 @@
+name,email,city
+ alice smith , ALICE@example.com , new york 
+Bob Jones,bob@example.com,london
+ALICE SMITH,alice@EXAMPLE.com,New York
+Cara Lee,cara@example.com,
+,dana@example.com,Paris
+Evan Park,EVAN@example.com, San Francisco 
